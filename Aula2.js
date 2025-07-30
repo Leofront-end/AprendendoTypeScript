@@ -1,0 +1,2 @@
+"use strict";
+console.log("Nothing is worth mora than laughter");
