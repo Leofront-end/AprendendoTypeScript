@@ -1,0 +1,1 @@
+let NothingGiverString: () => string;

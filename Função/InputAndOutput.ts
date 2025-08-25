@@ -1,0 +1,1 @@
+let inputAndOutput: (songs: string[], count?: number) => number
