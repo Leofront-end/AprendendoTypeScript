@@ -21,4 +21,4 @@ const ratings: Ratings = {audience: 66, critics: 84}
 
 getRating(ratings, 'audience');
 
-getRating(ratings,'not valid')
+// getRating(ratings,'not valid')
