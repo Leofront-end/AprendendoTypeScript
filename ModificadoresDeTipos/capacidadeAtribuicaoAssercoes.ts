@@ -1,0 +1,1 @@
+let myValue = "Stella" as unknown as number;
