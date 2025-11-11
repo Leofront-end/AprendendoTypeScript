@@ -11,7 +11,7 @@ const preferenceMutable = {
     standup: "yes"
 }
 
-describePreference(preferenceMutable.movie)
+// describePreference(preferenceMutable.movie)
 
 preferenceMutable.movie = "no"
 
@@ -22,4 +22,4 @@ const preferenceReadOnly = {
 
 describePreference(preferenceReadOnly.movie)
 
-preferenceReadOnly.movie = 'no'
+// preferenceReadOnly.movie = 'no'
